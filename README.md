@@ -22,10 +22,6 @@ Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为
 
 有效期至  2023-12-27
 
-## Nexitally机场怎么样
-
-[Nexitally奶昔机场怎么样？](https://clever99.com/how-about-nexitally)
-
 ## 特色
 
 * 每31天500G的总流量
